@@ -2,6 +2,14 @@
 
 Ce projet a été réalisé dans le cadre d'un stage de BTS en groupe de 4 personnes. L'objectif principal était de simplifier le processus de commande annuelle de vêtements de travail et d'Équipements de Protection Individuelle (EPI) en utilisant un site web accessible par tous les agents.
 
+
+
+
+https://github.com/MatthieuRoess/ONF/assets/123086572/ecde5dc9-9d92-400a-bc59-e99f6318d154
+
+
+
+
 ## Objectif du Projet
 
 Le but de ce projet était de créer une plateforme en ligne permettant aux employés de l'Office National des Forêts (ONF) de commander facilement leurs vêtements de travail et leurs équipements de protection. L'objectif était de rendre le processus de commande plus efficace, transparent et accessible à tous les agents de l'ONF.
