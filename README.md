@@ -1,8 +1,6 @@
 # Projet ONF
 
-Ce projet a été réalisé dans le cadre d'un stage de BTS en groupe de 4 personnes. L'objectif principal était de simplifier le processus de commande annuelle de vêtements de travail et d'Équipements de Protection Individuelle (EPI) en utilisant un site web accessible par tous les agents.
-
-
+Conception et mise en place d’une plateforme complète de gestion des EPI pour simplifier les commandes annuelles des employés de l'office national des forêts de Colmar.
 
 
 https://github.com/MatthieuRoess/ONF/assets/123086572/ecde5dc9-9d92-400a-bc59-e99f6318d154
